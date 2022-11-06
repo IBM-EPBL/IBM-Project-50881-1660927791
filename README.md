@@ -11,6 +11,8 @@ Team Members:
      •	Mohanraj M
      
      •	Budidavaka Lokesh
+     
+Project Title:
 
 A Novel Method for Handwritten Digit Recognition System
 
